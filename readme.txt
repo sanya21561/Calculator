@@ -1,1 +1,1 @@
-Isme plan likho , okay?
+Isme likho , okay ghonchu
