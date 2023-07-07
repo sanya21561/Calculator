@@ -1,1 +1,1 @@
-Isme likho , okay ghonchu
+a simple calculator using tkinter.
